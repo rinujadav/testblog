@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "name": "Dashboard",
+      "icon": "home",
+      "url": "dashboard",
+      "slug": "dashboard"
+    },
+
+    {
+      "navheader": "Data Grid",
+      "icon": "menu",
+      "slug": ""
+    },
+
+    {
+      "name": "Data Grid",
+      "icon": "menu",
+      "url": "data-grid",
+      "slug": "data-grid"
+    }
+  ]
+}

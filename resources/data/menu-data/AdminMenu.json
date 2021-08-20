@@ -1,0 +1,83 @@
+{
+    "menu": [
+      
+      {
+        "navheader": "Admin Functions",
+        "icon": "user",
+        "slug": ""
+      },
+      
+      {
+        "name": "Dashboard",
+        "icon": "home",
+        "url": "dashboard",
+        "slug": "dashboard"
+      },
+  
+      {
+        "navheader": "Users",
+        "icon": "user",
+        "slug": ""
+      },
+  
+      {
+        "name": "Users",
+        "icon": "user",
+        "url": "admin/users",
+        "slug": "users"
+      },
+  
+      {
+        "navheader": "Deposits",
+        "icon": "menu",
+        "slug": ""
+      },
+  
+      {
+        "name": "Deposits",
+        "icon": "menu",
+        "url": "admin/deposits",
+        "slug": "deposits"
+      },
+
+      {
+        "navheader": "Withdrawals",
+        "icon": "menu",
+        "slug": ""
+      },
+  
+      {
+        "name": "Withdrawals",
+        "icon": "menu",
+        "url": "admin/withdrawals",
+        "slug": "withdrawals"
+      },
+  
+      {
+        "navheader": "Documents",
+        "icon": "file",
+        "slug": ""
+      },
+  
+      {
+        "name": "Documents",
+        "icon": "file",
+        "url": "admin/documents",
+        "slug": "documents"
+      },
+  
+      {
+        "navheader": "Support",
+        "icon": "globe",
+        "slug": ""
+      },
+  
+      {
+        "name": "Support Tickets",
+        "icon": "globe",
+        "url": "admin/support",
+        "slug": "support"
+      }
+    ]
+  }
+  
